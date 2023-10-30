@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>platform6_service</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="platform6-connector" />
+    <None Remove="Hazelcast.Net" />
+    <None Remove="Google.Protobuf" />
+    <None Remove="Microsoft.Extensions.Logging.Console" />
+    <None Remove="Microsoft.Extensions.Logging" />
+    <None Remove="Microsoft.Extensions.Logging.Debug" />
+    <None Remove="Microsoft.Extensions.Logging.Configuration" />
+    <None Remove="Microsoft.Extensions.Logging.Abstractions" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.21.5" />
+    <PackageReference Include="Hazelcast.Net" Version="3.12.3" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="platform6-connector">
+      <HintPath>..\..\platform6-connector\platform6-connector\bin\Debug\net6.0\platform6-connector.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-service
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/appsettings.json
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-service.dll
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-service.deps.json
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-service.runtimeconfig.json
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-service.pdb
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/Google.Protobuf.dll
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/Hazelcast.Net.dll
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-connector.dll
+/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/bin/Release/net6.0/publish/platform6-connector.pdb

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "FntjpqSkTznTUS5gMFlwH/kr2j3r9Vzv5Jjbxf5TuKiLh1ZLDyjGpb4NERZ0DxkGdkmhsM074AC3+dhpvow/pQ==",
+  "success": true,
+  "projectFilePath": "/Users/simontemple/Documents/VSProjects/platform6-service/platform6-service/platform6-service.csproj",
+  "expectedPackageFiles": [
+    "/Users/simontemple/.nuget/packages/google.protobuf/3.21.5/google.protobuf.3.21.5.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/hazelcast.net/3.12.3/hazelcast.net.3.12.3.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.logging.configuration/7.0.0/microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.logging.console/7.0.0/microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/simontemple/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
